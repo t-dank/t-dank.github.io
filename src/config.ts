@@ -36,11 +36,6 @@ export const siteConfig = {
       skills: ["React", "Node.js", "AWS"],
     },
   ],
-  something: [
-    {
-      name: "Cool!",
-    }
-  ],
   experience: [
     {
       company: "Tech Company",
