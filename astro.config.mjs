@@ -7,5 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://t-dank.github.io'
+  site: 'https://t-dank.github.io',
+  base: '/',
 });
